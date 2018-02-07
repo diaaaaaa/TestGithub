@@ -15,3 +15,7 @@ def changeUserHash(currentUserId, newHash):
     return rows
 
 
+why you are here
+
+
+
